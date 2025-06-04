@@ -6,21 +6,19 @@ This project analyzes transactional data from an online UK-based retail store to
 online_retail_project/
 │
 ├── data/
-│   ├── Online_Retail.xlsx              # Original raw dataset
-│   └── cleaned_online_retail.csv       # Cleaned dataset
+│   └── Online_Retail.xlsx
+│   └── cleaned_online_retail.csv
 │
 ├── scripts/
-│   └── clean_data.py                   # Data cleaning script (reusable)
+│   └── clean_data.py
 │
 ├── notebooks/
-│   ├── exploratory_analysis.ipynb      # Main analysis notebook
+│   └── exploratory_analysis.ipynb
 │
 ├── charts/
-│   └── *.png                           # Generated visualizations
+│   └── *.png
 │
-└── README.md                           # Project overview and instructions
-
-
+└── README.md
 ---
 
 ## Tools & Libraries
