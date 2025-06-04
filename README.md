@@ -2,6 +2,7 @@
 This project analyzes transactional data from an online UK-based retail store to identify key performance indicators (KPIs) and generate business insights using Python. The goal is to demonstrate data cleaning, exploratory analysis, cohort retention, customer lifetime value (CLV), and RFM segmentation.
 
 **Project Structure**
+
 online_retail_project/
 │
 ├── data/
