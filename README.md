@@ -3,23 +3,17 @@ This project analyzes transactional data from an online UK-based retail store to
 
 **Project Structure**
 
-online_retail_project/
-│
-├── data/
-│   └── Online_Retail.xlsx
-│   └── cleaned_online_retail.csv
-│
-├── scripts/
-│   └── clean_data.py
-│
-├── notebooks/
-│   └── exploratory_analysis.ipynb
-│
-├── charts/
-│   └── *.png
-│
-└── README.md
----
+- data/
+  - Online_Retail.xlsx
+  - cleaned_online_retail.csv
+- scripts/
+  - clean_data.py
+- notebooks/
+  - exploratory_analysis.ipynb
+- charts/
+  - *.png
+- README.md
+
 
 ## Tools & Libraries
 
